@@ -9,5 +9,7 @@ The script will visit the website and search for the keyword in the content. If 
 How to create a check.txt file ?
 
 https://abc.com|abc
+
 http://websysdynamics.com|web development
+
 https://jawadulhassan.com|web developer & programmer
